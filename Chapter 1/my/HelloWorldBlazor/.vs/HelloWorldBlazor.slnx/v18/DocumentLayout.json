@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Packt\\GUI-Programming-with-C-Sharp\\Chapter 1\\my\\HelloWorldBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6F6DA5-5E99-4AFA-BE36-8F89E5086294}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\dev\\packt\\gui-programming-with-c-sharp\\chapter 1\\my\\helloworldblazor\\helloworldblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6F6DA5-5E99-4AFA-BE36-8F89E5086294}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6F6DA5-5E99-4AFA-BE36-8F89E5086294}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\dev\\packt\\gui-programming-with-c-sharp\\chapter 1\\my\\helloworldblazor\\helloworldblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A6F6DA5-5E99-4AFA-BE36-8F89E5086294}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6F6DA5-5E99-4AFA-BE36-8F89E5086294}|HelloWorldBlazor\\HelloWorldBlazor.csproj|c:\\dev\\packt\\gui-programming-with-c-sharp\\chapter 1\\my\\helloworldblazor\\helloworldblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A6F6DA5-5E99-4AFA-BE36-8F89E5086294}|HelloWorldBlazor\\HelloWorldBlazor.csproj|solutionrelative:helloworldblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\dev\\Packt\\GUI-Programming-with-C-Sharp\\Chapter 1\\my\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\dev\\Packt\\GUI-Programming-with-C-Sharp\\Chapter 1\\my\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "HelloWorldBlazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T14:34:04.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\dev\\Packt\\GUI-Programming-with-C-Sharp\\Chapter 1\\my\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\Components\\App.razor",
+              "ToolTip": "C:\\dev\\Packt\\GUI-Programming-with-C-Sharp\\Chapter 1\\my\\HelloWorldBlazor\\HelloWorldBlazor\\Components\\App.razor",
+              "RelativeToolTip": "HelloWorldBlazor\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-03T14:32:18.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Packt\\GUI-Programming-with-C-Sharp\\Chapter 1\\my\\HelloWorldBlazor\\HelloWorldBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorldBlazor\\Program.cs",
+              "ToolTip": "C:\\dev\\Packt\\GUI-Programming-with-C-Sharp\\Chapter 1\\my\\HelloWorldBlazor\\HelloWorldBlazor\\Program.cs",
+              "RelativeToolTip": "HelloWorldBlazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T14:27:04.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

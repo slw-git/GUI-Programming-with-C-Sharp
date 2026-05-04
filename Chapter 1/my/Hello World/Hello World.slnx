@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../BlazorApp/BlazorApp.Client/BlazorApp.Client.csproj" />
+  <Project Path="../BlazorApp/BlazorApp/BlazorApp.csproj" />
+  <Project Path="../MauiApp1/MauiApp1.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="Hello World.csproj" />
+</Solution>

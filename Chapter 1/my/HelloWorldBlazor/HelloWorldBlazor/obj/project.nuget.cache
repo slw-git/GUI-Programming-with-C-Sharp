@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jgCZU2ZUb0=",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Packt\\GUI-Programming-with-C-Sharp\\Chapter 1\\my\\HelloWorldBlazor\\HelloWorldBlazor\\HelloWorldBlazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\softw\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.7\\microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512",
+    "C:\\Users\\softw\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.7\\microsoft.aspnetcore.components.webassembly.10.0.7.nupkg.sha512",
+    "C:\\Users\\softw\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\10.0.7\\microsoft.aspnetcore.components.webassembly.server.10.0.7.nupkg.sha512",
+    "C:\\Users\\softw\\.nuget\\packages\\microsoft.dotnet.hotreload.webassembly.browser\\10.0.203\\microsoft.dotnet.hotreload.webassembly.browser.10.0.203.nupkg.sha512",
+    "C:\\Users\\softw\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.7\\microsoft.jsinterop.webassembly.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

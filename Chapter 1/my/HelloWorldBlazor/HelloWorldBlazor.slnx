@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HelloWorldBlazor.Client/HelloWorldBlazor.Client.csproj" />
+  <Project Path="HelloWorldBlazor/HelloWorldBlazor.csproj" />
+</Solution>

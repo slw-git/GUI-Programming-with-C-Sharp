@@ -1,21 +1,38 @@
-﻿@page "/greet"
+﻿@page "/"
 @rendermode InteractiveServer
 
-<h3>Greet</h3>
-<input @bind="Name" placeholder="Enter your name" />
-<button @onclick="ShowGreeting">Greet</button>
+@inject ILogger<Home> Log
+@inject Microsoft.AspNetCore.Hosting.IWebHostEnvironment Environment
 
-@if (!string.IsNullOrEmpty(Greeting))
-{
-    <p>@Greeting</p>
-}
+<h3>Simple Division Calculator</h3>
+<input type="number" @bind="Number1" placeholder="Enter first number" />
+/
+<input type="number" @bind="Number2" placeholder="Enter second number" />
+<button @onclick="Calculate">Calculate</button>
+<p><strong>@Result</strong></p>
+<p><strong>@Error</strong></p>
+<p>Server Information: @Environment.EnvironmentName running on @Environment.ApplicationName</p>
 
 @code {
-    string Name { get; set; }
-    string Greeting { get; set; }
+    double Number1 { get; set; }
+    double Number2 { get; set; }
+    string Result { get; set; }
+    string Error { get; set; }
+    void Calculate() {
+        try {
+            if(Number2 == 3)
+            {
+                throw new DivideByZeroException();    
+            }
+            var res = Number1 / Number2;
+            Log.LogInformation(res.ToString());
+            Result = $"The result is {res}";
+            Error = "Alles OK!";
+        }
+        catch (DivideByZeroException) {
+            Log.LogError("Division by zero attempted.");
+            Error = "Error: Division by zero is not allowed.";
+        }
 
-    void ShowGreeting()
-    {
-        Greeting = $"Hello {Name}";
     }
-} 
+}

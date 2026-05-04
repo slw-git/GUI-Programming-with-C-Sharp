@@ -1,0 +1,17 @@
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\bin\Debug\net10.0-windows\Hello World.exe
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\bin\Debug\net10.0-windows\Hello World.deps.json
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\bin\Debug\net10.0-windows\Hello World.runtimeconfig.json
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\bin\Debug\net10.0-windows\Hello World.dll
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\bin\Debug\net10.0-windows\Hello World.pdb
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello_World.Form1.resources
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello World.csproj.GenerateResource.cache
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello World.AssemblyInfoInputs.cache
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello World.AssemblyInfo.cs
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello World.csproj.CoreCompileInputs.cache
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello World.sourcelink.json
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello World.dll
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\refint\Hello World.dll
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello World.pdb
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\Hello World.genruntimeconfig.cache
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\Hello World\obj\Debug\net10.0-windows\ref\Hello World.dll

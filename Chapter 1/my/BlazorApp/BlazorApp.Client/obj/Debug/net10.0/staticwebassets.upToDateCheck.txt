@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\BlazorApp\BlazorApp.Client\wwwroot\appsettings.Development.json
+C:\dev\Packt\GUI-Programming-with-C-Sharp\Chapter 1\my\BlazorApp\BlazorApp.Client\wwwroot\appsettings.json
